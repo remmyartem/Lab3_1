@@ -1,0 +1,32 @@
+E:\Programs\Visual\Projects\Block1\Block1\bin\Debug\net5.0\Block1.exe
+E:\Programs\Visual\Projects\Block1\Block1\bin\Debug\net5.0\Block1.deps.json
+E:\Programs\Visual\Projects\Block1\Block1\bin\Debug\net5.0\Block1.runtimeconfig.json
+E:\Programs\Visual\Projects\Block1\Block1\bin\Debug\net5.0\Block1.runtimeconfig.dev.json
+E:\Programs\Visual\Projects\Block1\Block1\bin\Debug\net5.0\Block1.dll
+E:\Programs\Visual\Projects\Block1\Block1\bin\Debug\net5.0\ref\Block1.dll
+E:\Programs\Visual\Projects\Block1\Block1\bin\Debug\net5.0\Block1.pdb
+E:\Programs\Visual\Projects\Block1\Block1\obj\Debug\net5.0\Block1.csproj.AssemblyReference.cache
+E:\Programs\Visual\Projects\Block1\Block1\obj\Debug\net5.0\Block1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programs\Visual\Projects\Block1\Block1\obj\Debug\net5.0\Block1.AssemblyInfoInputs.cache
+E:\Programs\Visual\Projects\Block1\Block1\obj\Debug\net5.0\Block1.AssemblyInfo.cs
+E:\Programs\Visual\Projects\Block1\Block1\obj\Debug\net5.0\Block1.csproj.CoreCompileInputs.cache
+E:\Programs\Visual\Projects\Block1\Block1\obj\Debug\net5.0\Block1.dll
+E:\Programs\Visual\Projects\Block1\Block1\obj\Debug\net5.0\ref\Block1.dll
+E:\Programs\Visual\Projects\Block1\Block1\obj\Debug\net5.0\Block1.pdb
+E:\Programs\Visual\Projects\Block1\Block1\obj\Debug\net5.0\Block1.genruntimeconfig.cache
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\bin\Debug\net5.0\Block1.exe
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\bin\Debug\net5.0\Block1.deps.json
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\bin\Debug\net5.0\Block1.runtimeconfig.json
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\bin\Debug\net5.0\Block1.runtimeconfig.dev.json
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\bin\Debug\net5.0\Block1.dll
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\bin\Debug\net5.0\ref\Block1.dll
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\bin\Debug\net5.0\Block1.pdb
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\obj\Debug\net5.0\Block1.csproj.AssemblyReference.cache
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\obj\Debug\net5.0\Block1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\obj\Debug\net5.0\Block1.AssemblyInfoInputs.cache
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\obj\Debug\net5.0\Block1.AssemblyInfo.cs
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\obj\Debug\net5.0\Block1.csproj.CoreCompileInputs.cache
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\obj\Debug\net5.0\Block1.dll
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\obj\Debug\net5.0\ref\Block1.dll
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\obj\Debug\net5.0\Block1.pdb
+C:\Users\Artem\OneDrive\Рабочий стол\Block1\Block1\obj\Debug\net5.0\Block1.genruntimeconfig.cache
